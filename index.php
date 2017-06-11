@@ -30,6 +30,7 @@ a:active {
 -->
 </style>
 <link href="css/stylesheet1.css" rel="stylesheet" type="text/css"/>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 <style type="text/css">
 <!--
 -->
